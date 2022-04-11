@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3a432eD9a61e7cb7f3A711cb4EDFF1D19C3D36A1",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x3a432ed9a61e7cb7f3a711cb4edff1d19c3d36a1",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Aliens",
+  "SYMBOL": "ALNFTS",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 11,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/untitled-collection-251416574",
+  "SHOW_BACKGROUND": true
+}
